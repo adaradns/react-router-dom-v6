@@ -1,0 +1,13 @@
+section.home {
+    background-color: #BFD8D2;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+section h1 {
+    color: #141414;
+}
